@@ -1,0 +1,16 @@
+.sec-1 {
+    height: 60vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.styled {
+    padding: 12px;
+    font-size: large;
+    margin: 6px;
+}
+
+
+
